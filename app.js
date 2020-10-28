@@ -8,8 +8,8 @@ const options = {
     'return-date': '2015-04-07'
   },
   headers: {
-    'x-rapidapi-host': 'siddiq-such-flight-v1.p.rapidapi.com',
-    'x-rapidapi-key': '00b9396063msh63112912396a267p11359cjsne4006f385c31'
+    'x-rapidapi-host': 'insert',
+    'x-rapidapi-key': 'insert'
   }
 };
 
